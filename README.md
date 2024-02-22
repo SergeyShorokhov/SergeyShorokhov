@@ -1,11 +1,21 @@
 <h2 align="left">Hi 👋! My name is Sergey and I'm a Full Stack Developer, from Russia</h2>
 
+<p align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=2000&center=true&vCenter=true&random=false&width=435&lines=I+love+Counter-Strike+%26+Half-Life+related+dev.;Digging+HLDS+%26+SRCDS+servers.;I+love+to+realize+interesting+ideas." alt="Typing SVG" /></a>
+<p>
+
 <p>
 	<img align="right" height="150" width="150" src="https://avatars.githubusercontent.com/u/18553678?v=4"/>
-	I am a Full Stack Developer with 2016 of enterprise application development and open source software development.
-	Passionate self-taught, I am an open source enthusiast and developer. I've learned a lot from the open source community, and I love the collaboration and knowledge sharing that comes from open source. Previously, I have helped lead or build the Dev-CS community.
-	I strongly believe that the true value of open-source is not just the code, it's the community around it.
-	Besides contributing to open source I enjoy tinkering with electronics, hardware hacking, and software development in general.
+	I am a Passionate self-taught Full Stack Developer with 2016 of enterprise application development and I am an open source enthusiast and developer.
+	<article>
+	I've learned a lot from the open source community, and I love the collaboration and knowledge sharing that comes from open source.
+	<br>
+	Likewise, I strongly believe that the true value of open-source is not just the code, it's the surrounding community.
+	Besides contributing to open source I enjoy tinkering with electronics, hardware hacking, and software development in general. I enjoy coding for fun and making toy projects.
+	I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+	<br>
+	Previously, I helped lead and build the Dev-CS community.
+	</article>
 </p>
 
 <p align="left">
@@ -16,6 +26,7 @@
 </p>
 
 <div align="center">
+	<a href="https://www.codewars.com/users/Sergey%20Shorokhov/"><img src="https://www.codewars.com/users/Sergey%20Shorokhov/badges/large"></a>
 	<img src="https://github-readme-stats.vercel.app/api?username=wopox1337&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 	<img src="https://streak-stats.demolab.com?user=wopox1337&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=wopox1337&area=false&hide_border=false&hide_title=false" height="150" alt="activity-graph graph"  />
@@ -93,6 +104,34 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/wopox1337/wopox1337/output/snake.svg" alt="Snake animation" />
+
+<p align="center">
+	<table>
+    <tr>
+			<th>
+				<a href="https://spotify-github-profile.vercel.app/api/view?uid=dldt1syqryttv6zzujj9hrihy&amp;redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=dldt1syqryttv6zzujj9hrihy&amp;cover_image=false&amp;theme=default&amp;show_offline=true&amp;background_color=121212&amp;interchange=false&amp;bar_color=53b14f&amp;bar_color_cover=true" alt="spotify-github-profile"></a>
+			</th>
+			<th>
+				<img src="https://spotify-recently-played-readme.vercel.app/api?user=dldt1syqryttv6zzujj9hrihy&count=5">
+			</th>
+		</tr>
+	</table>
+</p>
+
+🧡 &nbsp;&nbsp;My passions
+
+* Technology and software
+* Science 
+* Machine learning
+* Nutrition
+* Nature
+* Retro gaming
+* Watch anime and TV shows
+
+Feel free to contact me :yum:
 <div align="left">
 	<a href="https://www.youtube.com/channel/UChdWv2zAZN7pUCR26ecmQ-g" target="_blank">
 		<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -109,18 +148,7 @@
 	<a href="https://t.me/ShorokhovSergey" target="_blank">
 		<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 	</a>
+	<a href="https://leetcode-cn.com/u/blackcater/">
+		<img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" />
+	</a>
 </div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/wopox1337/wopox1337/output/snake.svg" alt="Snake animation" />
-
-<p align="center">
-	<table>
-    <tr>
-			<th>
-				<a href="https://spotify-github-profile.vercel.app/api/view?uid=dldt1syqryttv6zzujj9hrihy&amp;redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=dldt1syqryttv6zzujj9hrihy&amp;cover_image=false&amp;theme=default&amp;show_offline=true&amp;background_color=121212&amp;interchange=false&amp;bar_color=53b14f&amp;bar_color_cover=true" alt="spotify-github-profile"></a>
-			</th>
-		</tr>
-	</table>
-</p>
