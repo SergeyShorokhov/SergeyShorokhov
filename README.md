@@ -108,18 +108,8 @@
 
 <img src="https://raw.githubusercontent.com/wopox1337/wopox1337/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-	<table>
-    <tr>
-			<th>
-				<a href="https://spotify-github-profile.vercel.app/api/view?uid=dldt1syqryttv6zzujj9hrihy&amp;redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=dldt1syqryttv6zzujj9hrihy&amp;cover_image=false&amp;theme=default&amp;show_offline=true&amp;background_color=121212&amp;interchange=false&amp;bar_color=53b14f&amp;bar_color_cover=true" alt="spotify-github-profile"></a>
-			</th>
-			<th>
-				<img src="https://spotify-recently-played-readme.vercel.app/api?user=dldt1syqryttv6zzujj9hrihy&count=5">
-			</th>
-		</tr>
-	</table>
-</p>
+<p>
+<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=dldt1syqryttv6zzujj9hrihy&amp;cover_image=false&amp;theme=default&amp;show_offline=true&amp;background_color=121212&amp;interchange=false&amp;bar_color=53b14f&amp;bar_color_cover=true"/>
 
 🧡 &nbsp;&nbsp;My passions
 
@@ -130,6 +120,7 @@
 * Nature
 * Retro gaming
 * Watch anime and TV shows
+</p>
 
 Feel free to contact me :yum:
 <div align="left">
