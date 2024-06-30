@@ -1,14 +1,11 @@
 name: Bug Report
 description: Bugs reported from users
 title: "[Bug] "
-labels: ["bug", "help wanted"]
-assignees: ["wopox1337"]
 body:
   - type: markdown
     attributes:
       value: |
         Please fill in the information to help reproduce the problem.
-  - type: 
   - type: textarea
     id: description
     attributes:
