@@ -1,10 +1,11 @@
 name: 🐛 Bug Report
+title: "[Bug] "
 description: Report a reproducible bug or regression in React Native.
 labels: ["bug"]
 body:
   - type: markdown
     attributes:
-      value: "## Reporting a bug to React Native"
+      value: "Please fill in the information to help reproduce the problem."
   - type: markdown
     attributes:
       value: |
