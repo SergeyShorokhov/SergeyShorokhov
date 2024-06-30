@@ -6,56 +6,56 @@ body:
     attributes:
       value: |
         Please fill in the information to help reproduce the problem.
-  - type: textarea
-    id: description
-    attributes:
-      label: Describe your issue
-      placeholder: When I level up in the game, some weapons are not given out.
-    validations:
-      required: true
-  - type: textarea
-    id: steps
-    attributes:
-      label: Steps to reproduce
-      placeholder: |
-        1. Leveling up by killing with a Glock18
-        2. USP is not issued, but the level up sound is played
-    validations:
-      required: true
-  - type: textarea
-    id: expected
-    attributes:
-      label: What is the expected result?
-      placeholder: I was expecting to get a new weapon (USP).
-    validations:
-      required: true
-  - type: textarea
-    id: screenshots
-    attributes:
-      label: Put any screenshots or videos here. (optional)
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Extra fields
-      options:
-        - label: I checked, my problem doesn't exist in the list of issues using search.
-          required: true
-  - type: markdown
-    attributes:
-      value: "## More additional info"
-  - type: input
-    id: input
-    attributes:
-      label: Telegram
-      placeholder: You telegram nickname (or link) for feedback.
-  - type: dropdown
-    id: reAMXX-version
-    attributes:
-      label: Select you Re AMXX version
-      required: true
-      options:
-        - 2.6.4
-        - 2.6.5
-        - 2.6.6
-        - 2.7.0
-        - 2.7.1
+  # - type: textarea
+  #   id: description
+  #   attributes:
+  #     label: Describe your issue
+  #     placeholder: When I level up in the game, some weapons are not given out.
+  #   validations:
+  #     required: true
+  # - type: textarea
+  #   id: steps
+  #   attributes:
+  #     label: Steps to reproduce
+  #     placeholder: |
+  #       1. Leveling up by killing with a Glock18
+  #       2. USP is not issued, but the level up sound is played
+  #   validations:
+  #     required: true
+  # - type: textarea
+  #   id: expected
+  #   attributes:
+  #     label: What is the expected result?
+  #     placeholder: I was expecting to get a new weapon (USP).
+  #   validations:
+  #     required: true
+  # - type: textarea
+  #   id: screenshots
+  #   attributes:
+  #     label: Put any screenshots or videos here. (optional)
+  # - type: checkboxes
+  #   id: terms
+  #   attributes:
+  #     label: Extra fields
+  #     options:
+  #       - label: I checked, my problem doesn't exist in the list of issues using search.
+  #         required: true
+  # - type: markdown
+  #   attributes:
+  #     value: "## More additional info"
+  # - type: input
+  #   id: input
+  #   attributes:
+  #     label: Telegram
+  #     placeholder: You telegram nickname (or link) for feedback.
+  # - type: dropdown
+  #   id: reAMXX-version
+  #   attributes:
+  #     label: Select you Re AMXX version
+  #     required: true
+  #     options:
+  #       - 2.6.4
+  #       - 2.6.5
+  #       - 2.6.6
+  #       - 2.7.0
+  #       - 2.7.1
